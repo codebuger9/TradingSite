@@ -1,7 +1,7 @@
 <?php
 
 namespace App;
-
+// including external library
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
